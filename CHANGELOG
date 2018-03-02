@@ -1,0 +1,2 @@
+1.0.1:
+    Allowed greater customization of configuration through  Interface.__init__
